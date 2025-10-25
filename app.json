@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "BookProject",
+    "slug": "BookProject",
+    "version": "1.0.3",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0B0B0B"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.deka23.BookProject"
+    },
+    "android": {
+      "package": "com.deka23.BookProject",
+       "versionCode": 4,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-secure-store",
+      "expo-localization",
+      "expo-build-properties"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "b23634ce-f645-4119-8495-92c715615259"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b23634ce-f645-4119-8495-92c715615259"
+    }
+  }
+}
