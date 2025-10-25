@@ -1,4 +1,4 @@
-# 📚 BookProject
+# 📚 BookProject 09/27/2024
 
 React Native ve Expo ile oluşturulmuş kapsamlı bir kitap okuma ve dil öğrenme uygulaması. Bu uygulama, kullanıcıların çeşitli yeterlilik seviyelerindeki İngilizce kitapları okuyabilmelerini, okuma ilerlemelerini takip etmelerini, kişisel kitap koleksiyonlarını yönetmelerini ve sözlük ve çevirici gibi entegre dil araçlarını kullanabilmelerini sağlar.
 
